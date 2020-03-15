@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Main
 menu:
   main:
-    name: Home
+    name: Main
     weight: 1
 layout: home
 ---
